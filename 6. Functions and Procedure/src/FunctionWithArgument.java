@@ -11,6 +11,8 @@ public class FunctionWithArgument {
         int num2 = userInput.nextInt();
 
         System.out.println("Sum of Two Numbers is: " + SumOfNumber(num1,num2));
+
+        userInput.close();
     }
 
 
