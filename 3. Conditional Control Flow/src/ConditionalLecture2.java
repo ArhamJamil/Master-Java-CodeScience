@@ -1,7 +1,7 @@
 import java.util.Objects;
 import java.util.Scanner;
 
-public class ConditionalsLecture2 {
+public class ConditionalLecture2 {
     public static void main(String[] args) {
         // Problem: Movie tickets are priced based on age: $12 for adults (18 and over),
         // $8 for children. Everyone gets a $2 discount on Wednesday.
